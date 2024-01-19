@@ -1,0 +1,32 @@
+# IMPORT
+import networkx as nx
+
+# CREATE EMPTY MULTI-EDGE DIRECTED GRAPH
+G = nx.MultiDiGraph()
+
+# BETWEENNESS CENTRALITY
+https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.betweenness_centrality.html#networkx.algorithms.centrality.betweenness_centrality
+
+# CLOSENESS CENTRALITY
+https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.closeness_centrality.html#networkx.algorithms.centrality.closeness_centrality
+
+# CLUSTERIN COEFF.S
+https://networkx.org/documentation/stable/reference/algorithms/clustering.html
+
+# RANDOM GRAPHS GENERATORS
+https://networkx.org/documentation/stable/reference/generators.html#module-networkx.generators.random_graphs
+
+# Z SCORE
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html
+
+# P VALUE
+https://www.tutorialspoint.com/python_data_science/python_p_value.htm
+
+# ALPHA AND OTC FORMAT
+SOURCE, TARGET, RATING, TIME
+
+# NODE DEGREES
+https://networkx.org/documentation/stable/reference/classes/generated/networkx.Graph.degree.html
+
+# EDGES INCIDENT ON A NODE (OR MORE THAN ONE)
+https://networkx.org/documentation/stable/reference/generated/networkx.classes.function.edges.html
