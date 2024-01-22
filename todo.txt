@@ -1,0 +1,21 @@
+some plotting of the graphs
+
+# METRICS
+betweenness centrality
+closeness centrality
+local clustering coeff
+avg clustering coeff
+number of graphlets
+presence of patterns (?
+
+must establish a threshold in [-10, +10] to consider a node a 'bad actor'
+computation of the metrics for bad actors
+
+# RANDOM GRAPHS
+creation of set of random graphs (10-15 is enough?) - Chung-Li model
+computation of metris for random graphs
+Monte-Carlo approach -> z-score, p-value of metrics
+comparison of the metrics
+
+comparison of subgraph-structures and/or graphlets with random graphs (?
+
